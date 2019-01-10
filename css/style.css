@@ -1,0 +1,30 @@
+body {
+  background-image: url("/img/bg.jpg")
+}
+
+.navbar-brand {
+  position: sticky;
+  font-size: 1rem;
+  padding: 0.9rem 1rem;
+}
+
+.bd-navbar {
+position: sticky;
+top: 0;
+z-index: 1071;
+}
+
+.jumbotron-fluid {
+  height: 200px;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+.jumbotron-fluid {
+  background-color: rgb(79, 79, 168)
+}
+
+
+.w-100 {
+  width: 40%!important;
+}   /*carousel picture size*/
